@@ -42,6 +42,9 @@ I'm excited to share a fun weekend project I built: a **Gesture-Controlled Assis
 - pyttsx3 *(for speech synthesis, optional)*
 
 ---
+## 🎥 Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1wfq5a1n_G5qTEnhRPGkGybW9fBh7RYCM/view?usp=sharing)
 
 ## ⚙️ Getting Started
 
